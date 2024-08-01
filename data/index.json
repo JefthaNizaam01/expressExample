@@ -1,0 +1,44 @@
+{
+    "results": [
+        {
+            "id":1,
+            "productName": "Need for Speed Underground 2",
+            "category": "PlayStation 2 Game",
+            "description": "A racing game that took place in the 2000s",
+            "amount": 110.89,
+            "img_url": "https://jefthanizaam01.github.io/favoriteimages/images/Need for speed underground 2.jpg"
+        },
+        {
+            "id":2,
+            "productName": "Gran Turismo 4",
+            "category": "PlayStation 2 Game",
+            "description": "A racing game that took place in the 2000s",
+            "amount": 110.89,
+            "img_url": "https://jefthanizaam01.github.io/favoriteimages/images/gran turismo 4.jpg"
+        },
+        {
+            "id":3,
+            "productName": "Midnight Club 3",
+            "category": "PlayStation 2 Game",
+            "description": "A racing game that took place in the 2000s",
+            "amount": 110.89,
+            "img_url": "https://jefthanizaam01.github.io/favoriteimages/images/midnight club 3.jpg"
+        },
+        {
+            "id":4,
+            "productName": "Grand Theft Auto Vice City",
+            "category": "PlayStation 2 Game",
+            "description": "A racing game that took place in the 2000s",
+            "amount": 110.89,
+            "img_url": "https://jefthanizaam01.github.io/favoriteimages/images/gta vice city.webp"
+        },
+        {
+            "id":5,
+            "productName": "Dragon Ball Z",
+            "category": "PlayStation 2 Game",
+            "description": "A racing game that took place in the 2000s",
+            "amount": 110.89,
+            "img_url": "https://jefthanizaam01.github.io/favoriteimages/images/Dbz-budokai-3-ps2.webp"
+        }
+    ]
+}
